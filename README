@@ -1,0 +1,16 @@
+######################################
+########## HandBrakeCalc #############
+######################################
+
+####       "It ain't much!"       ####
+
+# Version 0.0.1 by Eric J. Gruber [contact@rumblestrut.com]
+
+I use the HandBrake application (https://github.com/HandBrake) at my day job ripping in-house videos from DVD to various other file formats (yes, it's all legal). In HandBrake, if you want to trim the amount of time spent ripping a clip, you can specify an entry and exit point on the timeline.
+
+However, HandBrake lists the points as seconds. That's where this little calculator comes in handy. Granted, you could do this with a calculator and some paper and pencil (perhaps minus the paper and pencil), but what fun is that?
+
+#### Steps for use: ####
+1. Make sure you have Ruby installed.
+2. CD to the directory with the handbrakecalc.rb and run it in the Ruby shell.
+3. Follow prompts.
